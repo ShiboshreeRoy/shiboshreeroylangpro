@@ -215,4 +215,4 @@ function AnimationSequence() {
 
 ## 📝 License
 
-MIT © [Shiboshree Roy]
+MIT © Shiboshree Roy
